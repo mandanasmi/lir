@@ -1,0 +1,128 @@
+{
+  "simple": {
+    "uniform": {
+      "mean_final_loss": 14.156702404078771,
+      "std_final_loss": 2.390739220514972,
+      "mean_final_local_inc": 3.1838444060300595,
+      "std_final_local_inc": 0.7969130735049902,
+      "mean_final_global_inc": 9.55153321809018,
+      "std_final_global_inc": 2.390739220514971
+    },
+    "gradient_magnitude": {
+      "mean_final_loss": 14.156702404078771,
+      "std_final_loss": 2.390739220514972,
+      "mean_final_local_inc": 3.1838444060300595,
+      "std_final_local_inc": 0.7969130735049902,
+      "mean_final_global_inc": 9.55153321809018,
+      "std_final_global_inc": 2.390739220514971
+    },
+    "entropy_based": {
+      "mean_final_loss": 14.156702404078771,
+      "std_final_loss": 2.390739220514972,
+      "mean_final_local_inc": 3.1838444060300595,
+      "std_final_local_inc": 0.7969130735049902,
+      "mean_final_global_inc": 9.55153321809018,
+      "std_final_global_inc": 2.390739220514971
+    },
+    "variance_based": {
+      "mean_final_loss": 14.156702404078771,
+      "std_final_loss": 2.390739220514972,
+      "mean_final_local_inc": 3.1838444060300595,
+      "std_final_local_inc": 0.7969130735049902,
+      "mean_final_global_inc": 9.55153321809018,
+      "std_final_global_inc": 2.390739220514971
+    },
+    "adaptive": {
+      "mean_final_loss": 14.156702404078771,
+      "std_final_loss": 2.390739220514972,
+      "mean_final_local_inc": 3.1838444060300595,
+      "std_final_local_inc": 0.7969130735049902,
+      "mean_final_global_inc": 9.55153321809018,
+      "std_final_global_inc": 2.390739220514971
+    }
+  },
+  "medium": {
+    "uniform": {
+      "mean_final_loss": 18.973988533905715,
+      "std_final_loss": 3.7165417752832517,
+      "mean_final_local_inc": 3.592204836979281,
+      "std_final_local_inc": 0.9291354438208127,
+      "mean_final_global_inc": 14.368819347917125,
+      "std_final_global_inc": 3.716541775283251
+    },
+    "gradient_magnitude": {
+      "mean_final_loss": 18.973988533905715,
+      "std_final_loss": 3.7165417752832517,
+      "mean_final_local_inc": 3.592204836979281,
+      "std_final_local_inc": 0.9291354438208127,
+      "mean_final_global_inc": 14.368819347917125,
+      "std_final_global_inc": 3.716541775283251
+    },
+    "entropy_based": {
+      "mean_final_loss": 18.973988533905715,
+      "std_final_loss": 3.7165417752832517,
+      "mean_final_local_inc": 3.592204836979281,
+      "std_final_local_inc": 0.9291354438208127,
+      "mean_final_global_inc": 14.368819347917125,
+      "std_final_global_inc": 3.716541775283251
+    },
+    "variance_based": {
+      "mean_final_loss": 18.973988533905715,
+      "std_final_loss": 3.7165417752832517,
+      "mean_final_local_inc": 3.592204836979281,
+      "std_final_local_inc": 0.9291354438208127,
+      "mean_final_global_inc": 14.368819347917125,
+      "std_final_global_inc": 3.716541775283251
+    },
+    "adaptive": {
+      "mean_final_loss": 18.973988533905715,
+      "std_final_loss": 3.7165417752832517,
+      "mean_final_local_inc": 3.592204836979281,
+      "std_final_local_inc": 0.9291354438208127,
+      "mean_final_global_inc": 14.368819347917125,
+      "std_final_global_inc": 3.716541775283251
+    }
+  },
+  "complex": {
+    "uniform": {
+      "mean_final_loss": 21.04891299779277,
+      "std_final_loss": 3.1789180140404905,
+      "mean_final_local_inc": 3.288748762360836,
+      "std_final_local_inc": 0.6357836028080981,
+      "mean_final_global_inc": 16.44374381180418,
+      "std_final_global_inc": 3.1789180140404896
+    },
+    "gradient_magnitude": {
+      "mean_final_loss": 21.04891299779277,
+      "std_final_loss": 3.1789180140404905,
+      "mean_final_local_inc": 3.288748762360836,
+      "std_final_local_inc": 0.6357836028080981,
+      "mean_final_global_inc": 16.44374381180418,
+      "std_final_global_inc": 3.1789180140404896
+    },
+    "entropy_based": {
+      "mean_final_loss": 21.04891299779277,
+      "std_final_loss": 3.1789180140404905,
+      "mean_final_local_inc": 3.288748762360836,
+      "std_final_local_inc": 0.6357836028080981,
+      "mean_final_global_inc": 16.44374381180418,
+      "std_final_global_inc": 3.1789180140404896
+    },
+    "variance_based": {
+      "mean_final_loss": 21.04891299779277,
+      "std_final_loss": 3.1789180140404905,
+      "mean_final_local_inc": 3.288748762360836,
+      "std_final_local_inc": 0.6357836028080981,
+      "mean_final_global_inc": 16.44374381180418,
+      "std_final_global_inc": 3.1789180140404896
+    },
+    "adaptive": {
+      "mean_final_loss": 21.04891299779277,
+      "std_final_loss": 3.1789180140404905,
+      "mean_final_local_inc": 3.288748762360836,
+      "std_final_local_inc": 0.6357836028080981,
+      "mean_final_global_inc": 16.44374381180418,
+      "std_final_global_inc": 3.1789180140404896
+    }
+  }
+}

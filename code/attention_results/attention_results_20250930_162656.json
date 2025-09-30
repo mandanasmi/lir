@@ -1,0 +1,42 @@
+{
+  "uniform": {
+    "mean_final_test_loss": 23.694714228312176,
+    "std_final_test_loss": 3.3833550275925597,
+    "mean_convergence_epoch": 50.0,
+    "std_convergence_epoch": 0.0,
+    "mean_final_train_loss": 0.01739225905233373,
+    "std_final_train_loss": 0.0007194981119657203
+  },
+  "gradient_magnitude": {
+    "mean_final_test_loss": 23.715667724609375,
+    "std_final_test_loss": 3.3724922658851977,
+    "mean_convergence_epoch": 50.0,
+    "std_convergence_epoch": 0.0,
+    "mean_final_train_loss": 0.0165272296241407,
+    "std_final_train_loss": 0.001083904751083799
+  },
+  "entropy_based": {
+    "mean_final_test_loss": 23.689669291178387,
+    "std_final_test_loss": 3.3999503455285645,
+    "mean_convergence_epoch": 50.0,
+    "std_convergence_epoch": 0.0,
+    "mean_final_train_loss": 0.017742949198388185,
+    "std_final_train_loss": 0.0008400911100118177
+  },
+  "loss_based": {
+    "mean_final_test_loss": 23.689669926961262,
+    "std_final_test_loss": 3.3999500182465594,
+    "mean_convergence_epoch": 50.0,
+    "std_convergence_epoch": 0.0,
+    "mean_final_train_loss": 0.017742949664049473,
+    "std_final_train_loss": 0.0008401075044041442
+  },
+  "adaptive": {
+    "mean_final_test_loss": 23.689669926961262,
+    "std_final_test_loss": 3.399949783914828,
+    "mean_convergence_epoch": 50.0,
+    "std_convergence_epoch": 0.0,
+    "mean_final_train_loss": 0.01774294619099237,
+    "std_final_train_loss": 0.000840109240673331
+  }
+}
