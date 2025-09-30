@@ -389,7 +389,7 @@ def save_fixed_results(all_results: Dict[str, Any], output_dir: str = "fixed_res
 def main():
     """Main function to run fixed attention strategy experiments."""
     
-    print("🚀 Starting Fixed Attention Strategy Experiments...")
+    print("Starting Fixed Attention Strategy Experiments...")
     print("This will test 9 different attention strategies across 5 different scenarios.")
     
     # Run fixed experiments
@@ -404,18 +404,18 @@ def main():
     save_fixed_results(all_results)
     plot_fixed_results(all_results)
     
-    print(f"\n⏱️  Total experiment time: {total_time:.2f} seconds")
-    print("✅ Fixed experiments completed successfully!")
+    print(f"\nTotal experiment time: {total_time:.2f} seconds")
+    print("Fixed experiments completed successfully!")
     
     # Final recommendations
-    print(f"\n🎯 KEY FINDINGS:")
+    print(f"\n KEY FINDINGS:")
     print(f"   • Best overall strategy: {overall_ranking[0][0]}")
     print(f"   • Most consistent strategy: {overall_ranking[1][0] if len(overall_ranking) > 1 else overall_ranking[0][0]}")
     print(f"   • Total strategies tested: {len(overall_ranking)}")
     print(f"   • Total scenarios tested: {len(all_results)}")
     
     # Detailed analysis
-    print(f"\n📈 DETAILED ANALYSIS:")
+    print(f"\nDETAILED ANALYSIS:")
     print(f"   • The {overall_ranking[0][0]} strategy achieved the best average performance")
     print(f"   • Performance differences between strategies: {overall_ranking[-1][1] - overall_ranking[0][1]:.2f} rank points")
     print(f"   • This suggests that attention strategy choice can significantly impact learning performance")
